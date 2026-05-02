@@ -1,27 +1,68 @@
+# Retail Sales Analysis & Prediction 📊
 
-# Retail Store Sales Insights and Prediction Model
+## 🔍 Project Overview
+This project analyzes retail store data to uncover sales patterns, customer behavior, and business performance. It also builds machine learning models to predict future sales.
 
-## Project Overview
-This project analyzes retail sales data to uncover patterns, trends, and business insights using data analytics and visualization techniques.
+---
 
-## Key Features
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Business Insights and Recommendations
-- Interactive Power BI Dashboard
+## 🎯 Objectives
+- Perform Exploratory Data Analysis (EDA)
+- Build an interactive dashboard (Power BI)
+- Develop machine learning models for sales prediction
+- Provide data-driven business recommendations
 
-## Tools Used
-- Python (Pandas, Matplotlib, Seaborn)
-- Power BI
+---
+
+## 🛠️ Tools & Technologies
+- Python (Pandas, NumPy, Seaborn, Matplotlib)
+- Scikit-learn (ML models)
+- Power BI (Dashboard)
+- Jupyter Notebook
 - GitHub
 
-## Key Insights
-- Technology category generates highest sales
-- West region is most profitable
-- Consumer segment contributes most revenue
-- High discounts reduce profit margins
+---
 
- 
+## 📊 Key Insights
+- Technology category generates highest revenue
+- West region contributes highest profit
+- High discounts reduce profitability
+- Sales show seasonal trends
 
-## Author
-Rahul Deen D
+---
+
+## 🤖 Machine Learning Models
+- Linear Regression
+- Random Forest (Best Model)
+
+👉 Random Forest achieved better accuracy and was selected as the final model.
+
+---
+
+## 📈 Business Recommendations
+- Focus on high-performing categories
+- Optimize discount strategies
+- Improve low-performing regions
+- Use prediction for inventory planning
+
+---
+
+## 📁 Project Structure
+- notebooks/
+- data/
+- dashboard/
+- report/
+
+---
+
+## 📎 Final Report
+[Add your PDF link here]
+
+---
+
+## 📊 Dashboard
+[Add screenshot]
+
+---
+
+## 🚀 Author
+Rahul
